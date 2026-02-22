@@ -1,6 +1,3 @@
-# Data-science-portfolio 
-Portafolio de proyectos de análisis de datos y machine learning.
-
 # Data Science Portfolio – Sebastián Arana Quintana
 
 Profesional con enfoque analítico desarrollando proyectos de Machine Learning, análisis de datos y visualización en Python.
