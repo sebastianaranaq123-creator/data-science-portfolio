@@ -1,25 +1,33 @@
-# Data Science Portfolio – Sebastián Arana Quintana
+# Data Science Portfolio
 
-Profesional con enfoque analítico desarrollando proyectos de Machine Learning, análisis de datos y visualización en Python.
+Bienvenido a mi portafolio de Ciencia de Datos.
 
-Este repositorio documenta mi proceso de aprendizaje y aplicación práctica de modelos predictivos, análisis estadístico y resolución de problemas de negocio mediante datos.
+En este repositorio publico proyectos relacionados con:
 
-## 🚀 Proyectos
+- Machine Learning
+- Análisis de Datos
+- SQL
+- Visualización de Datos
 
-### 🔹 Employee Attrition Prediction (SVM)
-Modelo de clasificación para predecir rotación de empleados.
+## Proyectos
 
-### 🔹 CO2 Emissions – Multiple Regression
-Modelo de regresión múltiple con regularización para análisis de emisiones.
+### 1️⃣ Predicción de Rotación de Empleados
 
-### 🔹 Drug Classification – Decision Trees
-Modelo de clasificación utilizando árboles de decisión.
+Proyecto de Machine Learning para predecir si un empleado abandonará la empresa.
 
-## 🛠️ Herramientas
+Tecnologías utilizadas:
 
 - Python
 - Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
+- Scikit-learn
 - Seaborn
+- Matplotlib
+
+Modelo utilizado:
+
+- K-Nearest Neighbors (KNN)
+
+Resultados:
+
+- Accuracy: 0.95
+- AUC: 0.94
