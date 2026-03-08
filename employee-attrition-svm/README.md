@@ -1,3 +1,10 @@
-# Employee Attrition Prediction (SVM)
+# Employee Attrition Prediction (KNN)
 
-Proyecto de clasificación para predecir rotación de empleados.
+This project predicts employee attrition using machine learning.
+
+## Model
+K-Nearest Neighbors (KNN)
+
+## Metrics
+Accuracy: 0.95  
+AUC: 0.94
